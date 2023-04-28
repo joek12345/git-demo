@@ -12,5 +12,5 @@ Hello Lazy!
 Hello Lazy!
 Hello Lazy!
 Hello Lazy!
-Hello Lazy!
+Hello Lazy! master test
 Hello Lazy!
